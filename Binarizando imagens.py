@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-
-
-
-# In[39]:
-
-
 import cv2
 import numpy as np
 
@@ -48,12 +36,8 @@ cv2.imwrite(output_file, inverted_BW)
 
 
 
-
 # Exibe a porosidade
 print(f'Porosidade Visual = {porosity} %')
-
-
-# In[ ]:
 
 
 
