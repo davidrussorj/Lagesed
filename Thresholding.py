@@ -35,7 +35,6 @@ porosity = round(sum(sum(inverted_BW))/(s1*s2)*100)
 cv2.imwrite(output_file, inverted_BW)
 
 
-
 # Exibe a porosidade
 print(f'Porosidade Visual = {porosity} %')
 
