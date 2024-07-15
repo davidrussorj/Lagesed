@@ -1,2 +1,6 @@
-# Lagesed
-Trabalho de Machine Learning para calculo de Porosidade
+# Processando Imagens
+-Segmentacao de Imagens
+-Binarizacao 
+-RGB para Grayscale
+-Threshold
+-Visao Computacional
